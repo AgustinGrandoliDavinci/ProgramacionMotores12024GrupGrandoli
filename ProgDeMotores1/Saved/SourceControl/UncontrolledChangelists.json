@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Usuario/Downloads/ZipUnreal2DOparcial/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Usuario/Downloads/ZipUnreal2DOparcial/MyProject/Content/Widgets/Credits.uasset",
+				"D:/Usuario/Downloads/ZipUnreal2DOparcial/MyProject/Content/Widgets/MenuControles.uasset",
+				"D:/Usuario/Downloads/ZipUnreal2DOparcial/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Usuario/Downloads/ZipUnreal2DOparcial/MyProject/Content/Blueprints/NewPawn.uasset",
+				"D:/Usuario/Downloads/ZipUnreal2DOparcial/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XU/2T9EJQFM1Z6KANCN1PSUC3.uasset",
+				"D:/Usuario/Downloads/ZipUnreal2DOparcial/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/25/JCZUDLFTCYBRH1I7975USU.uasset"
+			]
+		}
+	]
+}
